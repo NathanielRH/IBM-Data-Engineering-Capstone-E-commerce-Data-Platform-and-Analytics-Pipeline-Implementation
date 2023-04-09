@@ -1,10 +1,10 @@
 # IBM Data Engineering Capstone: E-commerce Data Platform and Analytics Pipeline Implementation
 
-## Briefing
+## TL;DR Summary
 
 This project is a comprehensive implementation of an e-commerce data platform and analytics pipeline using various technologies and tools. The project consists of several hands-on labs, each representing a sub-project within the portfolio. 
 
-## Summary (TL;DR)
+## Summary
 
 This project is a comprehensive implementation of an e-commerce data platform and analytics pipeline. The project showcases the use of various data engineering and data analysis technologies and tools, including SQL and NoSQL databases, data warehousing, ETL processes, workflow management, and machine learning. The project portfolio provides a structured and comprehensive overview of the work completed and the skills and tools utilized. Overall, this project represents an excellent demonstration of data engineering skills and would be a valuable addition to any data engineering or analytics portfolio.
 
