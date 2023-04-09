@@ -16,26 +16,26 @@ The project simulates the work of a data engineer at an e-commerce company. The 
 
 The project consists of several hands-on labs:
 
-- OLTP Database Lab: Designing the schema for the OLTP database, loading data into the OLTP database, and automating admin tasks using MySQL.
-- NoSQL Database Lab: Importing data into a MongoDB database, querying data in a MongoDB database, and exporting data from MongoDB.
-- Data Warehousing Lab: Designing a data warehouse using the pgAdmin ERD design tool and loading data into the data warehouse. Writing aggregation queries and creating MQTs.
-- Dashboard Creation Lab: Creating a dashboard using Cognos Analytics to reflect the key metrics of the business.
-- ETL Lab: Writing a Python program that connects to IBM DB2 data warehouse and MySQL staging data warehouse, identifies the last row on IBM DB2, finds all rows later than the last row on the staging warehouse, and inserts the new data into IBM DB2 production data warehouse.
-- Data Pipelines using Apache Airflow Lab: Authoring an Apache Airflow DAG that extracts data from a web server log file, transforms it, and loads the transformed data into a tar file.
-- SparkML Ops Lab: Analyzing search terms data from the e-commerce web server, loading the sales forecast model, and predicting the sales for the year 2023.
+- **OLTP Database** Lab: Designing the schema for the OLTP database, loading data into the OLTP database, and automating admin tasks using MySQL.
+- **NoSQL Database** Lab: Importing data into a MongoDB database, querying data in a MongoDB database, and exporting data from MongoDB.
+- **Data Warehousing** Lab: Designing a data warehouse using the pgAdmin ERD design tool and loading data into the data warehouse. Writing aggregation queries and creating MQTs.
+- **Dashboard Creation** Lab: Creating a dashboard using Cognos Analytics to reflect the key metrics of the business.
+- **ETL** Lab: Writing a Python program that connects to IBM DB2 data warehouse and MySQL staging data warehouse, identifies the last row on IBM DB2, finds all rows later than the last row on the staging warehouse, and inserts the new data into IBM DB2 production data warehouse.
+- **Data Pipelines using Apache Airflow** Lab: Authoring an Apache Airflow DAG that extracts data from a web server log file, transforms it, and loads the transformed data into a tar file.
+- **SparkML Ops** Lab: Analyzing search terms data from the e-commerce web server, loading the sales forecast model, and predicting the sales for the year 2023.
 
 ## Skills and Tools
 
 This project utilizes several skills and tools, including:
 
-- Database design using SQL and NoSQL databases (MySQL and MongoDB)
+- Database design using **SQL** and **NoSQL** databases (**MySQL** and **MongoDB**)
 - ETL processes
-- Data warehousing using pgAdmin and IBM DB2
-- Query optimization
-- Business intelligence using Cognos Analytics
-- Python programming
-- Apache Airflow for workflow management
-- Machine learning using SparkML
+- Data warehousing using **pgAdmin** and **IBM DB2**
+- **Query** optimization
+- **Business intelligence** using **Cognos Analytics**
+- **Python** programming
+- **Apache Airflow** for workflow management
+- **Machine learning** using **SparkML**
 
 ## Project Portfolio
 
