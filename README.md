@@ -55,6 +55,8 @@ The project portfolio is organized as follows:
   - Write aggregation queries and create MQTs.
 - Dashboard Creation
   - Create a dashboard using Cognos Analytics to reflect the key metrics of the business.
+  ## This visual displays the work
+  ![Dashboard Screenshot](dashboard.JPG "Dashboard Screenshot")
 - ETL
   - Write a Python program that connects to IBM DB2 data warehouse and MySQL staging data warehouse.
   - Identify the last row on IBM DB2.
@@ -68,3 +70,5 @@ The project portfolio is organized as follows:
   - Analyze search terms data from the e-commerce web server.
   - Load the sales forecast model.
   - Predict the sales for the year 2023.
+  ## This visual displays the model's forecast
+![Forecast Screenshot](forecast.JPG "Forecast Screenshot")
