@@ -72,3 +72,6 @@ The project portfolio is organized as follows:
   - Predict the sales for the year 2023.
   ## This visual displays the model's forecast
 ![Forecast Screenshot](forecast.JPG "Forecast Screenshot")
+The culmination of the work shows a linear regression model trained on a sample CSV file containing data on day, month, year, and search terms from only two months: November and December of 2021. The file had 10,000 rows, and using the trained model, I wrote code to predict sales for the year 2023.
+
+After running the analysis, the model predicted 175 sales for the year 2023. Please note that this prediction is based on the limited data available in the CSV file and assumes no significant changes in consumer behavior or other external factors.
